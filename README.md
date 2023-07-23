@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RyouenLing
 - 👀 I’m interested in teaching
 - 🌱 I’m currently learning how to use AI to create the teaching materials that I need
-- 💞️ I’m looking to collaborate on teaching,and part-job to make more money
-- 📫 How to reach me 1916817401@qq.com
+- 💞️ I’m looking to collaborate on teaching
+- 📫 How to reach me...
 
 <!---
 RyouenLing/RyouenLing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
